@@ -10,6 +10,8 @@ Installs both **SleepGuard.app** (`/Applications`) and the **`sleepguard` CLI co
 brew install --cask --no-quarantine laiyongqiang/tap/sleepguard
 ```
 
+*(On Homebrew 7+, trust the tap once if prompted: `brew trust laiyongqiang/tap`)*
+
 Or add the tap first:
 
 ```bash
