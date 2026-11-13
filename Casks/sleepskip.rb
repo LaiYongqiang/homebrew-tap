@@ -1,7 +1,7 @@
 # LaiYongqiang/homebrew-tap/Casks/sleepskip.rb, substituting version and sha256.
 cask "sleepskip" do
-  version "1.3.3"
-  sha256 "255f0ea9ecc6d33a97477320007b63f9e7f0722058be8854f0fb408671c7d1af"
+  version "1.4.0"
+  sha256 "7eaa20ba803438e5d4d47f1786c7a9c62c630a261e1697ba0452e69efa798245"
 
   url "https://github.com/LaiYongqiang/SleepSkip/releases/download/v#{version}/SleepSkip-#{version}-macOS-universal.dmg"
   name "SleepSkip"
